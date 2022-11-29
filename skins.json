@@ -1,0 +1,90 @@
+{
+  "skins": [
+    {
+      "localization_name": "Conductor / 3prm3's skin (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "3prm3.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Scientist (3prm3)",
+      "geometry": "geometry.humanoid.customSlim",
+      "texture": "missingblack.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Blue Missing (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingblue.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Painter (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingcyan.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Park Ranger (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missinggreen.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Farmer (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingyellow.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Boss (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingred.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Computer (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "missingwhite.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "King Panda (TheCrazyKid)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "kingpanda.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Kitsune Mask (TheCrazyKid)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "kitsune.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vanish (Vanish)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vanish.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Vanish (alt.) (Vanish)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "vanishalt.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Sarah (TheCrazyKid)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "sarah.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Squishy (TheCrazyKid)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "squishy.png",
+      "type": "free"
+    }
+  ],
+  "serialize_name": "TheDefinitiveSkinpack",
+  "localization_name": "TheDefinitiveSkinpack"
+}

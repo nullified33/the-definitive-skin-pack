@@ -1,0 +1,24 @@
+{
+  "header": {
+    "name": "The Definitive Skinpack",
+    "description": "A skin pack made by 3prm3 Advanced#3194, _TheCrazyKid_#3840 and Vanish(https://www.planetminecraft.com/member/vaniiish/)",
+    "version": [
+      1,
+      0,
+      0
+    ],
+    "uuid": "f03d06cb-ad75-485e-8b2b-d26667c54ee6"
+  },
+  "modules": [
+    {
+      "version": [
+        1,
+        0,
+        0
+      ],
+      "type": "skin_pack",
+      "uuid": "4da2568f-1a7b-49c3-8e65-d7291556c207"
+    }
+  ],
+  "format_version": 1
+}
