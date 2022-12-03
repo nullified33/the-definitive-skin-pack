@@ -83,6 +83,12 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "squishy.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Jack O'Lantre (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "pumpkin.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheDefinitiveSkinpack",
