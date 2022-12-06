@@ -89,6 +89,42 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "pumpkin.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Cubey (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "cubey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cubey in Glasses (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "gcubey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cubeystack (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "hcubey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Inverted Cubey (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "icubey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cubey in a Tophat (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "thcubey.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Cubeystack (alt.)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "thhcubey.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheDefinitiveSkinpack",
