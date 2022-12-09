@@ -125,6 +125,12 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "thhcubey.png",
       "type": "free"
+    },
+    {
+      "localization_name": "(W)The Floater (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "floater.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheDefinitiveSkinpack",
