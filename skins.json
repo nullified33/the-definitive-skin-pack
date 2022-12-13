@@ -137,6 +137,18 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "redstonebot.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Raspberry Pi 400 (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "rpi.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "legoman",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "legoman.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheDefinitiveSkinpack",
