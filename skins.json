@@ -145,9 +145,15 @@
       "type": "free"
     },
     {
-      "localization_name": "legoman",
+      "localization_name": "LEGO Man (3prm3)",
       "geometry": "geometry.humanoid.custom",
       "texture": "legoman.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "beecoat",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "beecoat.png",
       "type": "free"
     }
   ],
