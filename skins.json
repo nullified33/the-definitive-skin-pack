@@ -151,9 +151,15 @@
       "type": "free"
     },
     {
-      "localization_name": "beecoat",
+      "localization_name": "(W)Bees in a Trenchcoat (3prm3)",
       "geometry": "geometry.humanoid.custom",
       "texture": "beecoat.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "(W)Mech (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "mech.png",
       "type": "free"
     }
   ],
