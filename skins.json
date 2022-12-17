@@ -157,9 +157,15 @@
       "type": "free"
     },
     {
-      "localization_name": "(W)Mech (3prm3)",
+      "localization_name": "(W)Mech Suit (3prm3)",
       "geometry": "geometry.humanoid.custom",
       "texture": "mech.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "(W)Wasp in a Fedora",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "waspfedora.png",
       "type": "free"
     }
   ],
