@@ -167,6 +167,24 @@
       "geometry": "geometry.humanoid.custom",
       "texture": "waspfedora.png",
       "type": "free"
+    },
+    {
+      "localization_name": "Outletface (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "outletface.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Creeper (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "creeper.png",
+      "type": "free"
+    },
+    {
+      "localization_name": "Steve (Dock) (3prm3)",
+      "geometry": "geometry.humanoid.custom",
+      "texture": "stevedock.png",
+      "type": "free"
     }
   ],
   "serialize_name": "TheDefinitiveSkinpack",
